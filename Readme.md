@@ -1,17 +1,21 @@
 
 # rework-important
 
-  (todo)
+  append !important
 
 ## Installation
 
 ```bash
-$ npm install yields/rework-important
+$ npm install segmentio/rework-important
 ```
 
-## API
+## Example
 
-  (todo)
+```js
+rework()
+  .use(important())
+  .toString();
+```
 
 ## License
 
