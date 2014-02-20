@@ -1,0 +1,16 @@
+
+/**
+ * comment
+ */
+
+style {
+  background: white !important;
+  color: black !important;
+}
+
+@media print {
+  .text {
+    color: black !important;
+    text-shadow: 1px 1px 1px #fff !important;
+  }
+}

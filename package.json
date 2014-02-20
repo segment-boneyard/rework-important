@@ -1,0 +1,14 @@
+{
+  "name": "rework-important",
+  "repo": "segmentio/rework-important",
+  "description": "append !important",
+  "version": "0.0.1",
+  "dependencies": {
+    "rework-visit": "^1.0.0"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*",
+    "rework": "*"
+  }
+}
